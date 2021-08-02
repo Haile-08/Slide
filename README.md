@@ -15,4 +15,4 @@
 ```javascript 
        javascript
 ```
-![website](image/movie.png)
+![website](image/slide.png)
